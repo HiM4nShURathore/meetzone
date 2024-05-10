@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "306153153032",
+    "project_id": "meet--zone",
+    "storage_bucket": "meet--zone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306153153032:android:784524edcd2f0d0482e7bd",
+        "android_client_info": {
+          "package_name": "com.example.online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306153153032-05cea1nlsk21vrp42e9jtsd7pheo197p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.online",
+            "certificate_hash": "1a0c14b4f163aa2d958ba02630b17c1565b89064"
+          }
+        },
+        {
+          "client_id": "306153153032-0k45r0tkr5n6od39hb8peif2519jvpc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXmZ4YlIOswW6YBTqfLVC7j41RI4HBPdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306153153032-0k45r0tkr5n6od39hb8peif2519jvpc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
